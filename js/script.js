@@ -34,3 +34,4 @@ $(function() {
 		console.log(iPhone6s.sumPrice(howMany));
 	})
 });
+
